@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+C:\Shool of Net - C#\CSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb

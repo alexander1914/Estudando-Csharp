@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\bin\Debug\CSharpOO.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\obj\Debug\CSharpOO.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Shool of Net - C#-I\CSharpOO\CSharpOO\obj\Debug\CSharpOO.pdb
+C:\Shool of Net - C#\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe.config
+C:\Shool of Net - C#\CSharpOO\CSharpOO\obj\Debug\CSharpOO.exe
+C:\Shool of Net - C#\CSharpOO\CSharpOO\obj\Debug\CSharpOO.pdb
+C:\Shool of Net - C#\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe
+C:\Shool of Net - C#\CSharpOO\CSharpOO\bin\Debug\CSharpOO.pdb
+C:\Shool of Net - C#\CSharpOO\CSharpOO\obj\Debug\POO.csprojResolveAssemblyReference.cache
